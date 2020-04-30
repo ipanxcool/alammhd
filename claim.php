@@ -7,7 +7,7 @@ echo "\e[96m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
 echo "\e[93m   \e[96m  YOUTUBE :IPANX COOL \e[93m \n";
 echo "\e[93m   \e[96m  Creator :IPANXCOOL \e[93m \n";
 echo "\e[96m  ==============================================\n";
-echo "\e[96m  =\e[95m - VOUCHER GOFOOD EATLAH           🇮🇩 \e[96m=\n";
+echo "\e[96m  =\e[95m - VOUCHER GOSEND                  🇮🇩 \e[96m=\n";
 echo "\e[96m  =\e[95m - VOUCHER GOFOOD                  🇮🇩 \e[96m=\n";
 echo "\e[96m  =\e[95m - VOUCHER GOFOOD                  🇮🇩 \e[96m=\n";
 echo "\e[96m  =\e[95m - VOUCHER DISKON BIAR SEHAT       🇮🇩 \e[96m=\n";
